@@ -1,0 +1,11 @@
+C:\Users\meggy\source\repos\frame4 injector\frame4 injector\obj\Debug\frame4_injector.Form1.resources
+C:\Users\meggy\source\repos\frame4 injector\frame4 injector\obj\Debug\frame4_injector.Properties.Resources.resources
+C:\Users\meggy\source\repos\frame4 injector\frame4 injector\obj\Debug\frame4 injector.csproj.GenerateResource.cache
+C:\Users\meggy\source\repos\frame4 injector\frame4 injector\obj\Debug\frame4 injector.csproj.CoreCompileInputs.cache
+C:\Users\meggy\source\repos\frame4 injector\frame4 injector\bin\Debug\frame4 injector.exe.config
+C:\Users\meggy\source\repos\frame4 injector\frame4 injector\bin\Debug\frame4 injector.exe
+C:\Users\meggy\source\repos\frame4 injector\frame4 injector\bin\Debug\frame4 injector.pdb
+C:\Users\meggy\source\repos\frame4 injector\frame4 injector\bin\Debug\MetroFramework.dll
+C:\Users\meggy\source\repos\frame4 injector\frame4 injector\obj\Debug\frame4 injector.csproj.CopyComplete
+C:\Users\meggy\source\repos\frame4 injector\frame4 injector\obj\Debug\frame4 injector.exe
+C:\Users\meggy\source\repos\frame4 injector\frame4 injector\obj\Debug\frame4 injector.pdb
